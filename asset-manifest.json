@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Furniture-Redux-App/static/css/main.12f8772e.chunk.css",
+    "main.js": "/Furniture-Redux-App/static/js/main.80788f7e.chunk.js",
+    "main.js.map": "/Furniture-Redux-App/static/js/main.80788f7e.chunk.js.map",
+    "runtime-main.js": "/Furniture-Redux-App/static/js/runtime-main.50d96ef6.js",
+    "runtime-main.js.map": "/Furniture-Redux-App/static/js/runtime-main.50d96ef6.js.map",
+    "static/js/2.82d82a00.chunk.js": "/Furniture-Redux-App/static/js/2.82d82a00.chunk.js",
+    "static/js/2.82d82a00.chunk.js.map": "/Furniture-Redux-App/static/js/2.82d82a00.chunk.js.map",
+    "index.html": "/Furniture-Redux-App/index.html",
+    "static/css/main.12f8772e.chunk.css.map": "/Furniture-Redux-App/static/css/main.12f8772e.chunk.css.map",
+    "static/js/2.82d82a00.chunk.js.LICENSE.txt": "/Furniture-Redux-App/static/js/2.82d82a00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50d96ef6.js",
+    "static/js/2.82d82a00.chunk.js",
+    "static/css/main.12f8772e.chunk.css",
+    "static/js/main.80788f7e.chunk.js"
+  ]
+}
